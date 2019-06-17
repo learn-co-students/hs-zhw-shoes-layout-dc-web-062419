@@ -24,4 +24,29 @@
 
 /* Positioning Classes */
 
+/**** MY CODE ****/
+.col-1{
+  float: left;
+  width: 31%;
+  background: white;
+  margin: 1%
+  }
+  
+.col-2{
+  float: left;
+  width: 65%;
+  background: white;
+  margin: 1%;
+  }
+  
+.col-3{
+  
+  }
+  
+.first {
+    margin-left: 0
+  }
+  
+  
+
 
